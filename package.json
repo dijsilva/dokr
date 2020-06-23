@@ -24,11 +24,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.8.4",
-    "electron-builder": "^20.10.0"
+    "electron": "^9.0.5",
+    "electron-builder": "^22.7.0"
   },
   "dependencies": {
-    "node-docker-api": "^1.1.22",
+    "dockerode": "^3.2.0",
     "path": "^0.12.7"
   },
   "build": {
